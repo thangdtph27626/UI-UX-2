@@ -62,7 +62,7 @@ Phần cuối cùng chứa mã được tạo cho toàn bộ lựa chọn hoạt
 
 
 
-## designstripe
+## 3. Designstripe
 
 DesignsProfit là phần mềm thiết kế linh hoạt và sáng tạo, hỗ trợ các cá nhân và doanh nghiệp tạo ra đồ họa, hình ảnh và thiết kế tuyệt đẹp một cách dễ dàng. Nó được thiết kế đặc biệt để đơn giản hóa và nâng cao quá trình thiết kế, cung cấp nhiều tính năng và công cụ phục vụ cho các nhu cầu thiết kế khác nhau. Cho dù bạn là nhà thiết kế đồ họa chuyên nghiệp, nhà tiếp thị, chủ doanh nghiệp hay đơn giản là người có tầm nhìn sáng tạo, DesignsProfit luôn hướng đến mục tiêu trở thành giải pháp phù hợp để bạn tạo ra những hình ảnh quyến rũ.
 
